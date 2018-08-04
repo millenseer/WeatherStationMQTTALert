@@ -1,10 +1,13 @@
 # WeatherStationMQTTALert
 
 Based upon
+ESP_8266:
 * OLED and fancy UI: https://github.com/ThingPulse/esp8266-weather-station/tree/master/examples/WeatherStationDemoExtended
 * MQTT: https://github.com/knolleary/pubsubclient/tree/master/examples/mqtt_esp8266
 * WiFiManager: https://github.com/tzapu/WiFiManager/
 
+PHP:
+* PHP MQTT: https://github.com/bluerhinos/phpMQTT
 
 ## Purpose: 
 * Show weather stuff
